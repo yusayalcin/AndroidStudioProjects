@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">assignment</string>
+    <string name="in2_error">Second argument is not a number</string>
+</resources>

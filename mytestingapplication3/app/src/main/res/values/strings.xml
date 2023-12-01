@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">mytestingapplication3</string>
+    <string name="hello"></string>
+    <string name="button_text_1">Add a +</string>
+    <string name="button_text_2">Remove +</string>
+    <string name="in1_error">First argument is not a number</string>
+    <string name="in2_error">Second argument is not a number</string>
+
+</resources>
